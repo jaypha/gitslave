@@ -1,3 +1,13 @@
+
+      
+			       Gitslave
+			    Fork Release
+			      2020-02-16
+
+* Fixed makefiles to work with latest version of pod2man.
+* Fixed gits regular expressions to work with latest version of Perl (v5.26.1)
+
+
 			       Gitslave
 			    Release 2.0.2
 			      2012-01-25
