@@ -1332,7 +1332,7 @@ if ($OPTIONS{'parallel'})
 ##################################################
 if ($ARGV[0] eq 'version' or $OPTIONS{'version'})
 {
-  my $version = "2.0.2";
+  my $version = "{UNTAGGED}";
 
   # <TRICKY> If the version string is still UNTAGGED, try to run the local
   # git commands to get the current hash and possibly tag; this is used by
